@@ -1,8 +1,8 @@
 Package: sitools
 Type: Package
 Title: Format a number to a string with SI prefix
-Version: 1.2
-Date: 2012-01-23
+Version: 1.3
+Date: 2012-02-19
 Author: Jonas Stein, Ben Tupper
 Maintainer: Jonas Stein <news@jonasstein.de>
 Description: Format a number (or a list of numbers) to a string (or a
@@ -11,6 +11,6 @@ Description: Format a number (or a list of numbers) to a string (or a
 License: GPL-3
 LazyLoad: yes
 LazyData: yes
-Packaged: 2012-01-23 01:24:49 UTC; stein
+Packaged: 2012-02-18 23:22:15 UTC; stein
 Repository: CRAN
-Date/Publication: 2012-01-23 07:38:52
+Date/Publication: 2012-02-19 09:12:29
